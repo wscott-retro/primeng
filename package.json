@@ -22,6 +22,9 @@
         "type": "git",
         "url": "https://github.com/primefaces/primeng.git"
     },
+    "publishConfig": {
+        "@wscott-retro:registry": "https://npm.pkg.github.com"
+    },
     "devDependencies": {
         "@angular-devkit/build-angular": "^17.0.5",
         "@angular-eslint/eslint-plugin": "17.1.1",
