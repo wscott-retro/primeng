@@ -1,4 +1,4 @@
-@layer primeng {
+
     .p-checkbox {
         display: inline-flex;
         cursor: pointer;
@@ -27,4 +27,4 @@
     .p-checkbox-label {
         line-height: 1;
     }
-}
+

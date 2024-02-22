@@ -1,4 +1,4 @@
-@layer primeng {
+
     .p-listbox-list-wrapper {
         overflow: auto;
     }
@@ -37,4 +37,3 @@
     .p-listbox-filter {
         width: 100%;
     }
-}

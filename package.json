@@ -1,5 +1,5 @@
 {
-    "name": "primeng",
+    "name": "@wscott-retro/primeng",
     "version": "17.7.0",
     "license": "SEE LICENSE IN LICENSE.md",
     "scripts": {
@@ -20,11 +20,12 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/primefaces/primeng.git"
+        "url": "https://github.com/wscott-retro/primeng.git"
     },
     "publishConfig": {
         "@wscott-retro:registry": "https://npm.pkg.github.com"
     },
+    "files": ["dist/resources"],
     "devDependencies": {
         "@angular-devkit/build-angular": "^17.0.5",
         "@angular-eslint/eslint-plugin": "17.1.1",

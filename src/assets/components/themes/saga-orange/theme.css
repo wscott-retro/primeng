@@ -272,7 +272,7 @@
   color: #FFC107;
 }
 
-@layer primeng {
+
   * {
     box-sizing: border-box;
   }
@@ -6302,9 +6302,9 @@
     font-feature-settings: var(--font-feature-settings, normal);
     font-size: 1rem;
   }
-}
+
 /* Customizations to the designer theme should be defined here */
-@layer primeng {
+
   .p-carousel .p-carousel-indicators .p-carousel-indicator.p-highlight button {
     background-color: #FFC107;
   }
