@@ -289,7 +289,6 @@
   color: #ec4899;
 }
 
-@layer primeng {
   * {
     box-sizing: border-box;
   }
@@ -6096,8 +6095,7 @@
     font-feature-settings: var(--font-feature-settings, normal);
     font-size: 1rem;
   }
-}
-@layer primeng {
+
   .p-button-label {
     font-weight: 700;
   }
@@ -6185,4 +6183,4 @@
     background: #ec4899;
     color: #ffffff;
   }
-}
+
