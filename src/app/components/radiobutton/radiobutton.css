@@ -1,4 +1,4 @@
-@layer primeng {
+
     .p-radiobutton {
         display: inline-flex;
         cursor: pointer;
@@ -35,4 +35,4 @@
     .p-radiobutton-label {
         line-height: 1;
     }
-}
+

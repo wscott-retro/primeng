@@ -1,4 +1,4 @@
-@layer primeng {
+
     .p-inputswitch {
         position: relative;
         display: inline-block;
@@ -20,4 +20,4 @@
         content: '';
         top: 50%;
     }
-}
+
